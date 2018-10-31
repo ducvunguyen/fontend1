@@ -1,0 +1,58 @@
+
+.container
+{
+	width: 90%;
+	margin: auto;
+}
+
+.row{
+	display: flex;
+}
+
+.col-1{
+	order: 1;
+	flex:1;
+
+}
+
+.col-2{
+	order:2;
+	flex:2;
+	display: flex;
+}
+.col-3{
+	flex:1;
+}
+
+.margin-all{
+ margin:20px;
+}
+.margin-right{
+ margin-right:20px;
+}
+.margin-left{
+ margin-left :20px;
+}
+.demo
+{
+	border: 1px solid red;
+}
+.margin-top
+{
+margin-top: 50px;
+}
+
+img
+{
+	width:100%;
+}
+
+p
+{
+	text-align: justify;
+}
+
+.mar-top
+{
+	margin-top: 40px;
+}
