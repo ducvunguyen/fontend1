@@ -6,13 +6,13 @@ Thực hiện bởi [Nguye duc vu](http://github.com/ducvunguyen)
 [Liên kết](https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/layout/simple%20layouts.psd)
 ## Giao diện
 
-[layout1](https://ducvunguyen.github.io/fontend1/app/layout.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
-[layout2](https://ducvunguyen.github.io/fontend1/app/layout2.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
-[layout3](https://ducvunguyen.github.io/fontend1/app/layout3.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
-[layout4](https://ducvunguyen.github.io/fontend1/app/layout4.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
-[layout5](https://ducvunguyen.github.io/fontend1/app/layout5.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
-[layout6](https://ducvunguyen.github.io/fontend1/app/layout6.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
-[layout7](https://ducvunguyen.github.io/fontend1/app/layout7.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
+1. [layout1](https://ducvunguyen.github.io/fontend1/app/layout.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
+2. [layout2](https://ducvunguyen.github.io/fontend1/app/layout2.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
+3. [layout3](https://ducvunguyen.github.io/fontend1/app/layout3.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
+4. [layout4](https://ducvunguyen.github.io/fontend1/app/layout4.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
+5. [layout5](https://ducvunguyen.github.io/fontend1/app/layout5.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
+6. [layout6](https://ducvunguyen.github.io/fontend1/app/layout6.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
+7. [layout7](https://ducvunguyen.github.io/fontend1/app/layout7.html?_ijt=l811kcf5u8g11qaqbpmmush2sd)
 ## Kiến thức nắm được
 
 Nắm bắt được các layout chính, cách chia bố cục layout.
